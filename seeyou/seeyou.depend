@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1495662322 source:d:\onedrive\dev\c++\seeyou\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"keyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1495344399 d:\onedrive\dev\c++\seeyou\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1495344459 d:\onedrive\dev\c++\seeyou\keyconstants.h
+	<map>
+	<string>
+
+1495344090 d:\onedrive\dev\c++\seeyou\base64.h
+	<vector>
+	<string>
+
+1495415658 d:\onedrive\dev\c++\seeyou\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1495751824 d:\onedrive\dev\c++\seeyou\timer.h
+	<thread>
+	<chrono>
+
+1495751824 d:\onedrive\dev\c++\seeyou\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1495751835 d:\onedrive\dev\c++\seeyou\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"keyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
